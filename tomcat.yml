@@ -1,4 +1,4 @@
-- hosts: any
+- hosts: all
 
   tasks:
     - name: download tomcat from dlcdn
